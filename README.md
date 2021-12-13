@@ -13,5 +13,5 @@ var Provinces = admin2.filter(ee.Filter.or(
   
   for any futhure question please contact me at: nkakhani@mail.kntu.ac.ir
   
-  Note: This code is basically inspired from UN-SPIDER recomandation approaches for disaster managements. 
+  Note: This code is basically inspired from UN-SPIDER recomandation approaches for disaster management. 
   
